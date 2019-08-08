@@ -1,0 +1,45 @@
+/*
+Theme Name: Graciliano
+Theme URI: https://arthr.me/projects/graciliano/
+Author: Arthur Freitas
+Author URI: https://arthr.me/
+Description: Named after the Brazilian author, Graciliano is a magazine theme with great typography and images that make your content shine. Supports featured images; and aside, link, audio, video and gallery post formats. Customize it with custom logo, two navigation areas (and a special menu for social links), and seven widget areas (two sidebars, four areas on footer and a special, large widget area).
+Version: 1.0.11
+License: GNU General Public License v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: graciliano
+Tags: two-columns, right-sidebar, custom-menu, custom-logo, featured-images, footer-widgets, post-formats, sticky-post, threaded-comments, translation-ready, entertainment, news
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+$base-font-family: 'libertine', Georgia, serif;
+$meta-font-family: 'lato', sans-serif;
+$mono-font-family: Consolas, Monaco, monospace;
+
+$base-font-size: 1.8rem;
+$small-font-size: 1rem;
+$base-line-height: 1.7;
+$base-font-weight: 400;
+
+$brand-color: #771B20;
+$text-color: #2B292B;
+$background-color: #F5F2ED;
+
+$grey-color: #6A6A6A;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark: darken($grey-color, 40%);
+
+$site-width: 108rem;
+$content-width: 64rem;
+$spacing-unit: 3rem;
+
+$on-palm: 650px;
+$on-laptop: 1024px;
+
+@import "assets/sass/fonts",
+        "assets/sass/reset",
+        "assets/sass/mixins",
+        "assets/sass/layout",
+        "assets/sass/elements";

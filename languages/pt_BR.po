@@ -1,0 +1,326 @@
+# Translation of Graciliano in Portuguese (Brazil)
+# This file is distributed under the same license as the Graciliano package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-04 20:27:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Graciliano\n"
+
+#: template-parts/header/navigation-primary.php:3
+msgid "Menu"
+msgstr "Navegação"
+
+#: inc/template-tags.php:56
+msgid "Avatar for %s"
+msgstr "Avatar de %s"
+
+#: inc/template-tags.php:42 inc/template-tags.php:60
+msgid "by %s"
+msgstr "por %s"
+
+#: comments.php:22
+msgctxt "comments title"
+msgid "%1$s comment to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
+
+#: template-parts/single/content-aside.php:16
+#: template-parts/single/content-audio.php:16
+#: template-parts/single/content-chat.php:16
+#: template-parts/single/content-gallery.php:16
+#: template-parts/single/content-image.php:16
+#: template-parts/single/content-link.php:17
+#: template-parts/single/content-page.php:14
+#: template-parts/single/content-quote.php:16
+#: template-parts/single/content-status.php:16
+#: template-parts/single/content-video.php:17
+#: template-parts/single/content.php:10
+msgid "Continue reading&hellip;"
+msgstr "Continuar lendo…"
+
+#: inc/customizer.php:34
+msgid "URL from this site feed, or FeedBurner"
+msgstr "URL para o feed desse site, ou para serviços como FeedBurner"
+
+#: inc/customizer.php:13
+msgid "Show social links in the top bar of your site. Always prefix your links with &ldquo;http://&rdquo; or &ldquo;https://&rdquo;."
+msgstr "Mostre links para as redes sociais no topo do seu site. Sempre comece os seus links com “http://” e “https://”."
+
+#: sidebar-featured-widgets.php:15
+msgid "All Topics"
+msgstr "Todos os tópicos"
+
+#: sidebar-footer.php:69
+msgid "Recent Comments"
+msgstr "Comentários recentes"
+
+#: sidebar-footer.php:53
+msgid "Archives"
+msgstr "Arquivos"
+
+#: sidebar-footer.php:38
+msgid "Recent Posts"
+msgstr "Posts recentes"
+
+#: sidebar-footer.php:21
+msgid "Categories"
+msgstr "Categorias"
+
+#. Author URI of the plugin/theme
+msgid "https://arthr.me/"
+msgstr "https://arthr.me/"
+
+#. Author of the plugin/theme
+msgid "Arthur Freitas"
+msgstr "Arthur Freitas"
+
+#. Description of the plugin/theme
+msgid "Named after the Brazilian author, Graciliano is a magazine theme with great typography and images that make your content shine. Supports featured images; and aside, link, audio, video and gallery post formats. Customize it with custom logo, two navigation areas (and a special menu for social links), and seven widget areas (two sidebars, four areas on footer and a special, large widget area)."
+msgstr "Nomeado em homenagem a um dos maiores autores brasileiros, Graciliano é um tema com bela tipografia e uso de grandes imagens que faz seu conteúdo brilhar. Suporta imagens destacadas; e formatos de post de notas, link, áudio, vídeo e galerias. Personalize-o com logo personalizado, duas áreas de navegação e um menu especial para links sociais), e sete áreas de widget (duas barras laterais, quatro áreas no rodapé, e uma área especial, em destaque)."
+
+#. Theme URI of the plugin/theme
+msgid "https://arthr.me/projects/graciliano/"
+msgstr "https://arthr.me/projects/graciliano/"
+
+#. Theme Name of the plugin/theme
+msgid "Graciliano"
+msgstr "Graciliano"
+
+#: template-parts/archives/archive-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não encontramos o que você queria aqui. Talvez a busca possa ajudar."
+
+#: template-parts/archives/archive-none.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas não encontramos nada com seus termos de busca. Por favor, tente novamente com algumas palavras-chave diferentes."
+
+#: template-parts/archives/archive-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/archives/archive-none.php:10
+msgid "Nothing Found"
+msgstr "Não encontrado"
+
+#: searchform.php:11
+msgid "Search"
+msgstr "Pesquisar"
+
+#: searchform.php:8
+msgid "Search &hellip;"
+msgstr "Pesquisar…"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por “%s”"
+
+#: inc/template-tags.php:161
+msgid "RSS Feed"
+msgstr "Feed RSS"
+
+#: inc/template-tags.php:88
+msgid "%s Comments"
+msgstr "%s comentários"
+
+#: inc/template-tags.php:87
+msgid "1 Comment"
+msgstr "Um comentário"
+
+#: inc/template-tags.php:76
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:76
+msgctxt "There is a space at the end of this string"
+msgid "Tags: "
+msgstr "Tags: "
+
+#: inc/template-tags.php:13
+msgid "Pinned"
+msgstr "Fixo"
+
+#: inc/customizer.php:112 inc/template-tags.php:224
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:102 inc/template-tags.php:216
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:92 inc/template-tags.php:208
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer.php:82 inc/template-tags.php:200
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:72 inc/template-tags.php:192
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer.php:62 inc/template-tags.php:184
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:52 inc/template-tags.php:176
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:42 inc/template-tags.php:168
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:32
+msgid "Feed URL"
+msgstr "URL do feed"
+
+#: inc/customizer.php:12
+msgid "Social Links"
+msgstr "Links sociais"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "Pular pro conteúdo"
+
+#: functions.php:131
+msgid "The fourth, large, widget area on footer."
+msgstr "A última, maior, área de widgets no rodapé."
+
+#: functions.php:129
+msgid "Footer Area #4"
+msgstr "Área do rodapé #4"
+
+#: functions.php:121
+msgid "The third, narrow, widget area on footer."
+msgstr "A terceira, menor, área de widgets no rodapé."
+
+#: functions.php:119
+msgid "Footer Area #3"
+msgstr "Área do rodapé #3"
+
+#: functions.php:111
+msgid "The second, narrow, widget area on footer."
+msgstr "A segunda, menor, área de widgets no rodapé."
+
+#: functions.php:109
+msgid "Footer Area #2"
+msgstr "Área do rodapé #2"
+
+#: functions.php:101
+msgid "The first, large, widget area on footer."
+msgstr "A primeira, maor, área de widgets no rodapé."
+
+#: functions.php:99
+msgid "Footer Area #1"
+msgstr "Área do rodapé #1"
+
+#: functions.php:90
+msgid "Appears on the side of the posts."
+msgstr "Aparece ao lado de posts e páginas."
+
+#: functions.php:88
+msgid "Single View Sidebar"
+msgstr "Barra lateral em posts"
+
+#: functions.php:79
+msgid "This widget area appears between the Featured Content and the posts in the home page, or in the footer in single pages."
+msgstr "Essa área de widgets aparece entre a área de conteúdo em destaque e os posts na página inicial, ou no rodapé em todas as outras páginas."
+
+#: functions.php:77
+msgid "Featured Widgets"
+msgstr "Widgets em destaque"
+
+#: functions.php:68
+msgid "This sidebar appears on the side of the post listings (blog pages, archives and search results)."
+msgstr "Essa barra lateral aparece no lado das listagens de post (páginas de blog, arquivos e resultados de pesquisa)."
+
+#: functions.php:66
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:29
+msgid "Top Menu"
+msgstr "Menu do topo"
+
+#: functions.php:28
+msgid "Primary Navigation"
+msgstr "Navegação primária"
+
+#: footer.php:21
+msgid "Front-end developer and WordPress consultant"
+msgstr "Desenvolvedor front-end e consultor WordPress."
+
+#: footer.php:21
+msgid "Designed by %s."
+msgstr "Feito por %s."
+
+#: footer.php:18
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:18
+msgid "Blog tool, publishing platform, and CMS"
+msgstr "Ferramenta de blogs, plataforma de publicação e CMS"
+
+#: footer.php:18
+msgid "Proudly powered by %s"
+msgstr "Mantido por %s"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Comentários foram encerrados."
+
+#: comments.php:58
+msgid "There's no comments on this page yet. Let's start this discussion."
+msgstr "Não há comentários nessa página ainda. Vamos começar essa conversa!"
+
+#: comments.php:57 inc/template-tags.php:86
+msgid "Leave a comment"
+msgstr "Deixar um comentário"
+
+#: comments.php:51
+msgid "Newer Comments"
+msgstr "Comentários recentes"
+
+#: comments.php:50
+msgid "Older Comments"
+msgstr "Comentários anteriores"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: comments.php:19
+msgctxt "comments title"
+msgid "One comment to &ldquo;%s&rdquo;"
+msgstr "Um comentário sobre &ldquo;%s&rdquo;"
+
+#: attachment.php:46 template-parts/single/content-aside.php:19
+#: template-parts/single/content-audio.php:19
+#: template-parts/single/content-chat.php:19
+#: template-parts/single/content-gallery.php:19
+#: template-parts/single/content-image.php:19
+#: template-parts/single/content-link.php:20
+#: template-parts/single/content-page.php:17
+#: template-parts/single/content-quote.php:19
+#: template-parts/single/content-status.php:19
+#: template-parts/single/content-video.php:20
+#: template-parts/single/content.php:13
+msgid "Pages:"
+msgstr "Páginas: "
+
+#: attachment.php:33
+msgid "Link to full-size image"
+msgstr "Link para a imagem em tamanho real"
+
+#: attachment.php:30
+msgid "Full size is %s pixels"
+msgstr "Tamanho original: %s pixels"

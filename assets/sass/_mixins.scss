@@ -1,0 +1,40 @@
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin meta-font() {
+  font-size: $small-font-size;
+  font-family: $meta-font-family;
+  line-height: $small-font-size * 1.6;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+/*
+    Grid System
+    Based on the work by Aleksandar Goševski.
+*/
+@mixin row() {
+  @extend %clearfix;
+}
+
+@mixin col($col, $sum, $align: top) {
+ width: 100%;
+ float: none;
+ box-sizing: border-box;
+
+ @media (min-width: $on-palm) {
+   width: percentage($col/$sum);
+   vertical-align: $align;
+   float: left;
+ }
+}
+
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

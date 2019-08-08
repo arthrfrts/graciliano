@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'libertine';
+	src: url('assets/fonts/libertine.woff2') format('woff2'),
+		   url('assets/fonts/libertine.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'libertine';
+	src: url('assets/fonts/libertine-italic.woff2') format('woff2'),
+		   url('assets/fonts/libertine-italic.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'libertine';
+	src: url('assets/fonts/libertine-bold.woff2') format('woff2'),
+		   url('assets/fonts/libertine-bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'libertine';
+	src: url('assets/fonts/libertine-bolditalic.woff2') format('woff2'),
+		   url('assets/fonts/libertine-bolditalic.woff') format('woff');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'lato';
+	src: url('assets/fonts/lato.woff2') format('woff2'),
+		   url('assets/fonts/lato.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'lato';
+	src: url('assets/fonts/lato-italic.woff2') format('woff2'),
+		   url('assets/fonts/lato-italic.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'lato';
+	src: url('assets/fonts/lato-light.woff2') format('woff2'),
+		   url('assets/fonts/lato-light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'lato';
+	src: url('assets/fonts/lato-lightitalic.woff2') format('woff2'),
+		   url('assets/fonts/lato-lightitalic.woff') format('woff');
+	font-weight: 300;
+	font-style: italic;
+}
